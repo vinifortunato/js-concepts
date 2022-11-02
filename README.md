@@ -7,8 +7,10 @@ Content:
 1. Variables
 2. Constants
 3. Basic types
-4. Conditionals
-5. Arithmetic Operators
-6. Logical Operators
-7. Loops
+4. Objects
+5. Arrays
+6. Conditionals
+7. Arithmetic Operators
+8. Logical Operators
+9. Loops
 
