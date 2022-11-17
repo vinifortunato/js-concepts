@@ -4,13 +4,14 @@ This repo contains examples of basic JS concepts.
 
 Content:
 
-1. Variables
-2. Constants
-3. Basic types
-4. Objects
-5. Arrays
-6. Conditionals
-7. Arithmetic Operators
-8. Logical Operators
-9. Loops
+01. Variables
+02. Constants
+03. Basic types
+04. Objects
+05. Arrays
+06. Conditionals
+08. Functions
+09. Arithmetic Operators
+10. Logical Operators
+11. Loops
 
